@@ -1,3 +1,4 @@
 # PART-2
 A. the code is simpler to use than before as it was improved and given a better way to use by the user so it can just be run from the zip file given.
 B. https://github.com/10443588/PART-2/commit/8c25c1ac598dc55431f07e1b61210b3c706d0cf1
+C. my part 2 of the assignment contains the addition of the user being able to add unlimited number of recipes and being able to name they recipes the way they want to so they wont forget which one it is. my software will be able to display all the recipes in order from a - z alphabetically. the user will be able to see more information about the ingredients example the calories and also calculate the total. the user will be notified when calories exceed 300 and this will make things easier for the user to do and be able to use the software given to them
